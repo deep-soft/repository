@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>it.feio.android</groupId>
+  <artifactId>omninotes_commons</artifactId>
+  <version>1.0.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20141025144226</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.2-SNAPSHOT</value>
+        <updated>20141025144226</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.2-SNAPSHOT</value>
+        <updated>20141025144226</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

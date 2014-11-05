@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>it.feio.android</groupId>
+  <artifactId>omninotes_commons</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+      <version>1.0.1-SNAPSHOT</version>
+      <version>1.0.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20141025144226</lastUpdated>
+  </versioning>
+</metadata>
