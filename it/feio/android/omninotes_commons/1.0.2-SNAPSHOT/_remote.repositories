@@ -1,4 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Oct 25 16:42:26 CEST 2014
+#Sun Jan 04 00:45:54 CET 2015
 omninotes_commons-1.0.2-SNAPSHOT.pom>=
+omninotes_commons-1.0.2-SNAPSHOT-javadoc.jar>=
 omninotes_commons-1.0.2-SNAPSHOT.jar>=
+omninotes_commons-1.0.2-SNAPSHOT-sources.jar>=
